@@ -1,16 +1,17 @@
 # You can remove 'pass' if you written code in the function 
 
 # Exercise 1
-def find_highest_digit(num):
-    # Write your code here
+def average_of_digits(n):
     pass
 
 # Exercise 2
-def repeat_number(num):
-    # Write your code here
+def product_smallest_largest(n):
     pass
 
 # Exercise 3
-def is_prime_number(num):
-    # Write your code here
+def count_digits_divisible_by_3(n):
+    pass
+
+# Exercise 4
+def reverse_number(n):
     pass
