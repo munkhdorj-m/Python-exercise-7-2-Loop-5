@@ -1,4 +1,4 @@
-# Python LOOP 4
+# Python LOOP 5
 
 Python Loops PPT:
 https://docs.google.com/presentation/d/1cRZd43s_xyNBLZ6vgFiUILPUMMtWDtBO/edit?usp=sharing&ouid=118175980541210638913&rtpof=true&sd=true
@@ -9,18 +9,18 @@ https://docs.google.com/presentation/d/1cRZd43s_xyNBLZ6vgFiUILPUMMtWDtBO/edit?us
 
 **Problem:**
 
-Find highest digit of a given number.
+Find and return the average of the digits of a given number
 
 **Example:**
 
-	Input: 1234
-	Output: 4
+	Input:  583
+	Output: 5.33
  
- 	Input: 91635
-	Output: 9
+ 	Input: 100
+	Output: 0.33
  
-  	Input: 0
-	Output: 0
+  	Input: 123
+	Output: 2
 
 ---
 
@@ -28,18 +28,18 @@ Find highest digit of a given number.
 
 **Problem:**
 
-Return the given number with the same number of digits.
+Find and return the product of the smallest digit and largest digit.
 
 **Example:**
 
-	Input: 4
-	Output: 4444
+	Input: 583
+	Output: 24
  
- 	Input: 7
-	Output: 7777777
+ 	Input: 7014
+	Output: 0
  
-  	Input: 1
-	Output: 1
+  	Input: 345
+	Output: 15
 
 
 ---
@@ -48,21 +48,38 @@ Return the given number with the same number of digits.
 
 **Problem:**
 
-Check if a given number is prime number or not.
+Count and return how many digits are divisible by 3.
 
 **Example**
 
- 	Input: 3
-  	Output: True
+ 	Input: 9362
+  	Output: 3
  
-  	Input: 18
-  	Output: False
+  	Input: 101
+  	Output: 0
  
-  	Input: 41
-  	Output: True
-   
-  	Input: 1
-  	Output: False
+  	Input: 123
+  	Output: 1
      
 ---
+
+## Exercise 4
+
+**Problem:**
+
+Find and return reverse of the number.
+
+**Example**
+
+ 	Input: 12345
+  	Output: 54321
+ 
+  	Input: 478
+  	Output: 874
+ 
+  	Input: 1
+  	Output: 1
+     
+---
+
 
