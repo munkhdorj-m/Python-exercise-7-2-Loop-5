@@ -40,8 +40,8 @@ def test2(num, expected):
 @pytest.mark.parametrize("num, expected", [
     (6391, 3),      # 6,3,9
     (123456, 2),    # 3,6
-    (777, 3),       # all divisible
-    (1248, 1),      # 6 only
+    (999, 3),       # all divisible
+    (12486, 1),      # 6 only
     (55555, 0),     # all are 5 
 ])
 def test3(num, expected):
